@@ -1,6 +1,6 @@
 # Проект "Анализ продаж компьютерных игр"
 
-Стак: python/pandas/scipy/math/numpy/matplotlib/seaborn
+Стек: python/pandas/scipy/math/numpy/matplotlib/seaborn
 
 ## Описание проекта:
 

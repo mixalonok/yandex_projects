@@ -1,6 +1,6 @@
 # Проект "Принятие решений в бизнесе"
 
-Стак: python/pandas/numpy/scipy
+Стек: python/pandas/numpy/scipy
 
 ## Описание проекта:
 

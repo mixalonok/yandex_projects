@@ -1,6 +1,6 @@
 # Проект "Анализ бизнес-показателей"
 
-Стак: python/pandas/numpy/matplotlib/
+Стек: python/pandas/numpy/matplotlib/
 
 ## Описание проекта:
 

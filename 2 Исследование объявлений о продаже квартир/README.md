@@ -1,6 +1,6 @@
 # Проект "Исследование объявлений о продаже квартир"
 
-Стак: python/pandas/matplotlib/numpy
+Стек: python/pandas/matplotlib/numpy
 
 ## Описание проекта:
 

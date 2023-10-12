@@ -1,6 +1,6 @@
 # Проект "Анализ поведения пользователей и A.A.B-тестирование"
 
-Стак: python/pandas/matplotlib/scipy/plotly
+Стек: python/pandas/matplotlib/scipy/plotly
 
 ## Описание проекта:
 

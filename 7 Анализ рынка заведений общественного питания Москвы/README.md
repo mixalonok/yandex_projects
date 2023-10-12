@@ -1,6 +1,6 @@
 # Проект "Поиск сегмента для инвестиций. Анализ рынка заведений общественного питания в Москве"
 
-Стак: python/pandas/math/matplotlib/seaborn/plotly/folium
+Стек: python/pandas/math/matplotlib/seaborn/plotly/folium
 
 ## Описание проекта:
 

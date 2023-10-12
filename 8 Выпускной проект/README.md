@@ -1,6 +1,6 @@
 # Проект "Анализ товарного ассортимента интернет-магазина «Пока все ещё тут»"
 
-Стак: python/pandas/numpy/matplotlib/re/seaborn/collections/scipy
+Стек: python/pandas/numpy/matplotlib/re/seaborn/collections/scipy
 
 ## Описание проекта:
 
